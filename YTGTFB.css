@@ -1,0 +1,154 @@
+
+.html,body{
+    width: 100%;
+}
+.bookimg{
+    width: 260px;
+    height: 360px;
+    border: none;
+    box-shadow: 2px 2px 5px;
+    margin: 100px 0 0 50px;
+}
+.YTGTFBsec-2{
+    width: 800px;
+    height: 1100px;
+    border: 1px solid black;
+    float: right;
+    border: none;
+    margin: -600px 300px 0 0;
+}
+
+.YTGTFBsec-3{
+    width: 300px;
+    height: 600px;
+    box-shadow: 2px 2px 5px;
+    border: 1px solid black;
+float: right;
+clear: both;
+margin: -800px  25px 0 0;
+}
+   
+    .YTGTFBsec-1{
+        height: 700px;
+        width: 400px;
+        /* border: 1px solid black; */
+        text-align: center;
+    }
+.booknm{
+    font-size: 32px;
+    word-spacing: 2px;
+    font-family: sans-serif;
+    margin: 0 0 0 50px;
+}
+.paper{
+    font-size: 26px;
+    color: grey;
+    margin: 0px 0 0 50px;
+}
+.b-finalprice,.b-actualprice,.save{
+    margin: 20px 0 10px 50px;
+font-size: 22px;
+}
+.auothernm{
+    margin: 10px 0 0 50px;
+    color: coral;
+}
+.buynw{
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+    border: none;
+    color: black;
+    background: linear-gradient(to bottom, rgba(255, 166, 0, 0.677),orange);
+    margin: 10px 0 0 50px; 
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.buynw:hover{
+    cursor: pointer;
+    margin: 15px 0 0 50px;
+    transition: 0.3s;
+}
+.amznsite,.flpsite,.othsite{
+    margin: 50px 0 0 50px;
+}
+.productdetails{
+    margin: 50px 0 0 50px;
+   
+}
+.productdetails li{
+list-style-type: none;
+    padding-bottom: 25px;
+    font-size: 16px;
+    font-family: sans-serif;
+    letter-spacing: 0.5px;
+}
+.details{
+    font-family: sans-serif;
+    margin-left: 45px;
+    font-weight: bold;
+}
+.auth-img{
+   
+    border-radius: 50%;
+    margin: 20px 0 0 75px;
+}
+.bookpreview{
+    word-spacing: 2px;
+width: 700px;
+margin: 15px 0 0 50px;
+}
+.auth-info{
+    width: 280px;
+    word-spacing: 2px;
+    margin-left: 15px;
+}.authnm{
+    font-size: 20px;
+    color: darkcyan;
+    margin: 20px 0 0 90px;
+}
+h3{
+    margin: 25px 0 0 70px;
+}
+.read,.readless{
+    color: blue;
+    text-decoration: underline;
+  margin-top: 10px;
+}
+.read:hover,.readless:hover{
+    cursor: pointer;
+   color: orange;
+    transition: 0.3s;
+}
+.readmore{
+    margin-top: -15px;
+}
+.YTGTFBsec-4{
+    border: 1px solid black;
+clear: both;
+width: 70%;
+height: 250px;
+margin-left: 15%;
+margin-bottom: 100px;
+overflow: auto;
+border: none;
+    }
+    .books-holder{
+        width: 200%;
+        height: 200px;
+        border: none;
+    }
+    .YTGTFBsec-4::-webkit-scrollbar {
+        height: 2px;
+      }
+   
+    
+
+.reco-books{
+width: 150px;
+height: 200px;
+border: 1px solid black;
+float: left;
+margin-left: 50px;
+}
+
